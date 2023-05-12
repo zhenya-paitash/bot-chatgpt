@@ -1,0 +1,12 @@
+.vscode
+/node_modules
+
+/dist
+
+# ./config
+config/*.json
+!config/example.*.json
+
+# ./voices
+voices/*.mp3
+voices/*.ogg

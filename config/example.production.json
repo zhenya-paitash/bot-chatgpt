@@ -1,0 +1,13 @@
+{
+  "environment": "production",
+  "telegram": {
+    "bot": {
+      "token": "***"
+    }
+  },
+  "chatgpt": {
+    "api": {
+      "key": "***"
+    }
+  }
+}
